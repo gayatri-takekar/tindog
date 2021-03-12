@@ -4,7 +4,9 @@ body {
 
 
 }
-
+html {
+    scroll-behaviour:smooth;
+}
 #title {
     /* background-color: #ff4c68;
     color: #fff; */
